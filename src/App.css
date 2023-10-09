@@ -154,6 +154,17 @@
 .pt_49{
   padding-top: 49px;
 }
+.btn_add:hover{
+ background-color: white;
+ color: black;
+  animation:slidebg 5s linear infinite;
+}
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+  }
+}
+
 
 @media (min-width: 1200px) {
   .col-7 {

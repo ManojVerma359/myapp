@@ -33,7 +33,7 @@ function App() {
                     <div className="align_all pt_29 ">
                       <p className="dolor ff-hindi ">$169.99</p>
                       <p className="d199 ff-hindi">$199.99</p>
-                      <button className="btn_add add_text ff-hindi">
+                      <button className="btn_add add_text ff-hindi ">
                         ADD CART
                       </button>
                     </div>
